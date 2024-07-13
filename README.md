@@ -1,0 +1,2 @@
+# ServerHost
+SMP - GX
